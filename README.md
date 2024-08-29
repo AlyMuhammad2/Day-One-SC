@@ -1,4 +1,7 @@
 # Day-One-SC
+
+==>plz swap to master branch (:
+
 1 - $ ssh-keygen -t ed25519 -C "alii.muhammad9399@gmail.com" 
     To Create an SSH Key and Add it to GitHub
 2 - $ ssh-add ~/.ssh/id_ed25519
