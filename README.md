@@ -1,5 +1,5 @@
 # Day-One-SC
-1 - $ ssh-keygen -t ed25519 -C "alii.muhammad9399.com" 
+1 - $ ssh-keygen -t ed25519 -C "alii.muhammad9399@gmail.com" 
     To Create an SSH Key and Add it to GitHub
 2 - $ ssh-add ~/.ssh/id_ed25519
     To Add the SSH private key
